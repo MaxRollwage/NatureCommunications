@@ -5,7 +5,7 @@ Fully anonymised data files are available from the corresponding author on reaso
 
 The script Behavioral_analysis_Study1.m reproduces the behavioral analysis of study 1 regarding the influence of confidence on changes of mind (Figure 1).
 
-The script HDDM_model_fit.py fits the different drift-diffusion models and evaluates the posterior distribution of models paramters (Figure 2D).
+The script DDM_model_fitting_NatureCommunications.ipynb fits the different drift-diffusion models and evaluates the posterior distribution of models paramters (Figure 2D).
 
 The script HDDM_model_simulation.m simulates the best fitting drift-diffusion model (Figure 2B&C).
 
